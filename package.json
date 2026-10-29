@@ -1,7 +1,7 @@
 {
   "name": "labapod",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generation Colombia. Trabajo Colaborativo Grupo N°6                                                                                                                                                                         \r Integrantes: Felipe Ortiz Gamboa - Alexandra Vanessa del Valle Aragón - Cristian David Veléz Ramírez - Kendry Y. Vargas Gaviria                                                                                           \r Link de GitHub Pages:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "dayjs": "^1.11.23"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crtiandev/LabAPOD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crtiandev/LabAPOD/issues"
+  },
+  "homepage": "https://github.com/crtiandev/LabAPOD#readme"
 }
